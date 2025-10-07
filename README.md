@@ -1,1 +1,1 @@
-nwm.
+# random things made on Praktyki JABA DABA >:3
