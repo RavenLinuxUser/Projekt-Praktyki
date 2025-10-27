@@ -1,5 +1,6 @@
 # random things made on Praktyki JABA DABA >:3
 
+<<<<<<< HEAD
 # Initialise a module (once)
 go mod init mycsvparser
 
@@ -14,3 +15,4 @@ go run . -dir ./my-csv-folder -op ">" -price 100 -json
 -op	Comparison operator for the price filter: < (lower), = (equal), > (higher).
 -price	Numeric threshold used together with -op.
 -json	Optional; prints the result as pretty‑printed JSON instead of a plain table.
+
